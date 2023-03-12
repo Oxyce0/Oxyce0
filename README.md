@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Spotify](https://readme-du6dhbkhm-oxyce0.vercel.app/api/spotify)](https://open.spotify.com/user/mi59wrppwmjtdaor3z2caekoc)
+[![Spotify](https://novatorem-fs7z-p818mulrn-oxyce0.vercel.app/api/spotify)](https://open.spotify.com/user/mi59wrppwmjtdaor3z2caekoc)
+
