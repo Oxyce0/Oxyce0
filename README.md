@@ -1,5 +1,8 @@
-### Hi there 👋
-### MY Name Is Oxyce
+
+---
+<h1 align="center">Selam 👋, Ben Murat 👨‍💻</h1>
+<h3 align="center">Zor olsada elbet yazılır.</h3>
+
 <!--
 **Oxyce0/Oxyce0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+---
 [![Spotify](https://novatorem-fs7z-p818mulrn-oxyce0.vercel.app/api/spotify)](https://open.spotify.com/user/mi59wrppwmjtdaor3z2caekoc)
-
