@@ -15,7 +15,7 @@
 
 ---
 
-[![Spotify](https://novatorem-fs7z-p818mulrn-oxyce0.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mi59wrppwmjtdaor3z2caekoc)
+[![Spotify](https://oxyce.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mi59wrppwmjtdaor3z2caekoc)
 ---
 </div>
 
