@@ -13,7 +13,7 @@
 
 
 ---
-[![Spotify](https://novatorem-fs7z-p818mulrn-oxyce0.vercel.app/api/spotify)](https://open.spotify.com/user/mi59wrppwmjtdaor3z2caekoc)
+[![Spotify](https://novatorem-fs7z-p818mulrn-oxyce0.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mi59wrppwmjtdaor3z2caekoc)
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxyce0&show_icons=true&locale=en&layout=compact" alt="oxyce0" /></p>
