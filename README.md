@@ -12,10 +12,9 @@
 <a href="https://www.instagram.com/mrtens.oz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrtens.oz" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/584675230077681685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Oxyce#0688" height="30" width="40" /></a>
 
-
 ---
 
-[![Spotify](https://oxyce.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mi59wrppwmjtdaor3z2caekoc)
+[![Spotify](https://oxyce1-oxyce0.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mi59wrppwmjtdaor3z2caekoc)
 ---
 </div>
 
