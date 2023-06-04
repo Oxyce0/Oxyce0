@@ -4,7 +4,7 @@
 
 
 &nbsp;<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F9A1A&center=true&vCenter=true&width=435&lines=Birlikte+bir+%C5%9Feyler+mi+yazsak+%3F;Geli%C5%9Ftirmemiz+gereken+%C5%9Feyler+var.;Beraber+ba%C5%9Farabiliriz..." alt="Typing SVG" /></a>
+<a href="https://www.instagram.com/mrtens.oz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F9A1A&center=true&vCenter=true&width=435&lines=Birlikte+bir+%C5%9Feyler+mi+yazsak+%3F;Geli%C5%9Ftirmemiz+gereken+%C5%9Feyler+var.;Beraber+ba%C5%9Farabiliriz..." alt="Typing SVG" /></a>
 
  
 <h3 align="center">Benimle İletişime Geç:</h3>
